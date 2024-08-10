@@ -43,26 +43,30 @@ body {
 }
 #card h2{
     font-size: 30px;
+    color: white;
 }
 #card h3{
     font-size: 20px;
     margin: 0 0 12px;
     opacity: 0.6;
+    color: white;
 }
 #card p{
     font-size: 14px;
     margin-bottom: 30px;
     opacity: 0.5;
+    color: white;
 }
 #card .btn{
     display: flex;
     gap: 20px;
+    
 }
 #card button{
-    border: 1px solid rgb(0, 0, 0);
+    border: 1px solid rgb(255, 255, 255);
     background: transparent;
     font-weight: 600;
-    color: black;
+    color: rgb(255, 255, 255);
     width: 40%;
     min-width: 100px;
     text-align: center;
